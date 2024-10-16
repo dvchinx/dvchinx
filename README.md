@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Back-end Java Software Developer.<br> 👨‍🎓 Computer Systems and Networks Technician.<br> 🎓 Director and founder of the software development research group at the Universitaria Agustiniana.<br>
+👨‍💻 Back-end Java Software Developer.<br> 👨‍🎓 Computer Systems and Networks Technician.<br> 📝 Director and founder of the software development research group at the Universitaria Agustiniana.<br>
 
 
 ## 🌐 Socials:
