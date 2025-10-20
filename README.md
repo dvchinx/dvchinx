@@ -43,9 +43,3 @@
 
 # < <code>⠀⠀💼⠀⠀Activity⠀⠀</code> />
 [![dvchinx's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dvchinx&theme=synthwave-84&hide_title=true&radius=10&area=true)](https://github.com/dvchinx)
-
-# < <code>⠀⠀🌟⠀⠀Top Repositories⠀⠀</code> />
-
-| ![Hand-Mesh](https://github-readme-stats.vercel.app/api/pin/?username=dvchinx&show_owner=true&repo=Hand-Mesh&theme=synthwave&hide_border=true) | ![Fractal-Gallery](https://github-readme-stats.vercel.app/api/pin/?username=dvchinx&show_owner=true&repo=Fractal-Gallery&theme=synthwave&hide_border=true) |
-| ----- | ----- |
-| ![pyjava](https://github-readme-stats.vercel.app/api/pin/?username=dvchinx&show_owner=true&repo=pyjava&theme=synthwave&hide_border=true) | ![jikan-api](https://github-readme-stats.vercel.app/api/pin/?username=dvchinx&show_owner=true&repo=jikan-api&theme=synthwave&hide_border=true) |
