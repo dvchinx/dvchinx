@@ -2,7 +2,7 @@
 
 #### Hello, my name is Jesús Flórez or **dvchinx**, and I'm a Software Developer and Figma Designer who supports open source.
 
-> Developing [EazyJava](https://github.com/dvchinx/EazyJava) - an open source project to make Java easier to work with.
+> Developing [EazyJava](https://github.com/dvchinx/EazyJava) - an open source library to make Java easier to work with.
 
 | ![Stats](https://github-readme-stats.vercel.app/api?username=dvchinx&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true&rank_icon=github&include_all_commits=true&line_height=20&hide_title=true) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dvchinx&theme=synthwave&hide_border=true&layout=compact&langs_count=8&hide_title=true) |
 | ----- | ----- |
