@@ -2,7 +2,7 @@
 
 #### Eu, mi nombre es Jesús Flórez o **dvchinx**, y soy Desarrollador Backend especializado en Java/Spring Framework que apoya el Open Source.
 
-> Desarrollando [Descargar (JitPack)](https://jitpack.io/#dvchinx/EazyJava/-72e2ebb5f7-1) - una libreria de código abierto que agrega métodos del estilo Python - [Repositorio](https://github.com/dvchinx/eazyjava).
+> Desarrollando [Librería (Java/JitPack)](https://jitpack.io/#dvchinx/EazyJava/-72e2ebb5f7-1) - una libreria de código abierto que agrega métodos del estilo Python - [Repositorio](https://github.com/dvchinx/eazyjava).
 
 > Desarrollando [Blog (Web)](https://blog.jesusflorez.cloud) - blog colaborativo y de código abierto de artículos relacionados con tecnología - [Repositorio](https://github.com/dvchinx/blog).
 
