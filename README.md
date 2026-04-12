@@ -18,7 +18,7 @@ Me gusta construir herramientas reutilizables y compartirlas en open source.
 - Blog Colaborativo <br/> [Ver](https://blog.jesusflorez.cloud) - [Repo](https://github.com/dvchinx/blog) - [Docs](https://deepwiki.com/dvchinx/blog)
 
 - Libreria para Java 8+ [Repo](https://github.com/dvchinx/EazyJava)
-- Removedor de fondo [Repo](https://github.com/dvchinx/eazy-background)
+- Removedor de fondo con IA [Repo](https://github.com/dvchinx/Easy-Background)
 - Generador de fractales [Repo](https://github.com/dvchinx/Fractal-Gallery)
 
 ### Tech Stack
