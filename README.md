@@ -14,7 +14,7 @@ Me gusta construir herramientas reutilizables y compartirlas en open source.
 
 ### Proyectos
 - Mi plataforma [Ver](https://jesusflorez.cloud)
-- Mi portafolio [Ver](https://jesusflorez.cloud/portfolio) 
+- Mi portafolio <br/> [Ver](https://jesusflorez.cloud/portfolio) - [Repo](https://github.com/dvchinx/portafolio) - [Docs](https://deepwiki.com/dvchinx/portafolio) 
 - Blog Colaborativo <br/> [Ver](https://blog.jesusflorez.cloud) - [Repo](https://github.com/dvchinx/blog) - [Docs](https://deepwiki.com/dvchinx/blog)
 
 - Libreria para Java 8+ [Repo](https://github.com/dvchinx/EazyJava)
