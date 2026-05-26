@@ -9,7 +9,7 @@
     <td width="60%">
 
 ### Sobre mí
-Soy desarrollador backend enfocado en Java y Spring.
+Soy desarrollador backend especializado en Java y Spring Framework.
 Me gusta construir herramientas reutilizables y compartirlas en open source.
 
 ### Proyectos
