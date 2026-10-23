@@ -43,7 +43,7 @@ aprendiendo:
   - Sliding Window de tamaño variable
 debatamos_sobre:
   - Java, Spring Boot, IA
-  - Pasarte a Arch Linux
+  - Pasarte a Linux
 ```
 
 ---
