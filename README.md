@@ -21,7 +21,7 @@ Soy **Software Engineer** enfocado en **backend con Java y Spring**. Me interesa
 
 - 🏦 Construyo sistemas **Backend + IA** para el sector financiero: scoring crediticio y detección de fraude con ML explicable (SHAP)
 - 🧱 Me gusta la **arquitectura hexagonal**: dominio limpio, sin frameworks, testeado contra infraestructura real
-- 🏆 **Top 15 de Colombia en [Kattis](https://open.kattis.com/users/jesus-florez)** y top 6.000 global. También compito en Codeforces y AtCoder y participo en **hackathons**
+- 🏆 **Top 15 de Colombia en [Kattis](https://open.kattis.com/users/dvchinx)** y top 6.000 global. También compito en Codeforces y AtCoder y participo en **hackathons**
 - 🌱 Publico herramientas **open source** y documento lo que aprendo en mi [blog](https://blog.jesusflorez.cloud)
 - 🇨🇴 Desde Colombia, trabajando en español e inglés
 
@@ -144,7 +144,7 @@ Resuelvo problemas en **C++** y publico las soluciones, con comentarios y organi
 <p>
   <a href="https://codeforces.com/profile/dvchinx"><img src="https://img.shields.io/badge/Codeforces-dvchinx-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
   <a href="https://atcoder.jp/users/dvchinx"><img src="https://img.shields.io/badge/AtCoder-dvchinx-222222?style=for-the-badge" alt="AtCoder"></a>
-  <a href="https://open.kattis.com/users/jesus-florez"><img src="https://img.shields.io/badge/Kattis-jesus--florez-0A101F?style=for-the-badge" alt="Kattis"></a>
+  <a href="https://open.kattis.com/users/jesus-florez"><img src="https://img.shields.io/badge/Kattis-dvchinx-0A101F?style=for-the-badge" alt="Kattis"></a>
   <a href="https://github.com/dvchinx/Competitive-Programming#leetcode-solutions"><img src="https://img.shields.io/badge/LeetCode-soluciones-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 </p>
 
