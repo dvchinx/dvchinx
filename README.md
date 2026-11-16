@@ -19,11 +19,11 @@
 ### 📖 Sobre mí
 Soy **Software Engineer** enfocado en **backend con Java y Spring**. Me interesa el software que se puede auditar y explicar: sistemas que no solo toman decisiones, sino que dejan registrado *por qué* las tomaron.
 
-- 🏦 Construyo sistemas **Backend + IA** para el sector financiero: scoring crediticio y detección de fraude con ML explicable (SHAP)
-- 🧱 Me gusta la **arquitectura hexagonal**: dominio limpio, sin frameworks, testeado contra infraestructura real
-- 🏆 **Top 15 de Colombia en [Kattis](https://open.kattis.com/users/dvchinx)** y top 6.000 global. También compito en Codeforces y AtCoder y participo en **hackathons**
-- 🌱 Publico herramientas **open source** y documento lo que aprendo en mi [blog](https://blog.jesusflorez.cloud)
-- 🇨🇴 Desde Colombia, trabajando en español e inglés
+- 🏦 Construyo sistemas **Backend + IA** para el sector financiero: scoring crediticio y detección de fraude con ML explicable (SHAP).
+- 🧱 Me gusta la **arquitectura hexagonal**: dominio limpio, sin frameworks, testeado contra infraestructura real.
+- 🏆 **Top 14 de Colombia en [Kattis](https://open.kattis.com/users/dvchinx)** y **Top 19 de Colombia en [AtCoder](https://atcoder.jp/users/dvchinx)**. También compito en Codeforces y resuelvo ejercicios en LeetCode.
+- 🌱 Publico herramientas **open source** y documento lo que aprendo en mi [blog](https://blog.jesusflorez.cloud) de tecnología.
+- 🇨🇴 Desde Colombia, trabajando en español e inglés.
 
   </td>
   <td width="40%" align="center">
@@ -137,8 +137,8 @@ Visión por computadora: detección de emociones por análisis geométrico facia
 Resuelvo problemas en **C++** y publico las soluciones, con comentarios y organizadas por dificultad y origen, en [**Competitive-Programming**](https://github.com/dvchinx/Competitive-Programming).
 
 <p align="center">
-  <a href="https://open.kattis.com/users/jesus-florez"><img src="https://img.shields.io/badge/Kattis-Top_15_Colombia_🇨🇴-FCD116?style=for-the-badge&labelColor=0A101F" alt="Kattis: Top 15 Colombia"></a>
-  <a href="https://open.kattis.com/users/jesus-florez"><img src="https://img.shields.io/badge/Kattis-Top_6.000_global_🌎-4B9FC9?style=for-the-badge&labelColor=0A101F" alt="Kattis: Top 6.000 global"></a>
+  <a href="https://open.kattis.com/users/jesus-florez"><img src="https://img.shields.io/badge/Kattis-Top_14_Colombia_🇨🇴-FCD116?style=for-the-badge&labelColor=0A101F" alt="Kattis: Top 15 Colombia"></a>
+  <a href="https://open.kattis.com/users/jesus-florez"><img src="https://img.shields.io/badge/AtCoder-Top_19_Colombia_🇨🇴-4B9FC9?style=for-the-badge&labelColor=0A101F" alt="Kattis: Top 6.000 global"></a>
 </p>
 
 <p>
